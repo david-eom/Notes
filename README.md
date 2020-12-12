@@ -1,2 +1,2 @@
 # Notes
-Notes for NUS Mods
+My Notes for CS and MA mods (for revision and cheatsheet making)
