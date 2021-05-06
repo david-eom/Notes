@@ -1,2 +1,4 @@
 # Notes
-Notes for CS and MA mods (for revision and cheatsheet making)
+My notes for CS modules.
+
+Made with and best viewed on markdown editor [**Typora**](https://typora.io/).
